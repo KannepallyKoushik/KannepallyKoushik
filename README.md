@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Developing my Skills!
 - 🌱 I’m currently learning React, Node .
 - 👯 I’m looking to collaborate with other Full-Stack Devlopers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
