@@ -1,6 +1,6 @@
 ### Hi there, I'm Koushik  👋
 
-[![Website](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://master.d3851zjhc33rp7.amplifyapp.com/)
+[![Website](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kannepally-portfolio.web.app/)
 
 
 ## I'm a Student !
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[website]: https://master.d3851zjhc33rp7.amplifyapp.com/
+[website]: https://kannepally-portfolio.web.app/
 [linkedin]: https://www.linkedin.com/in/kannepally-koushik-kumar-379095146/
 [instagram]: https://instagram.com/kannapalli_koushik
 
