@@ -5,8 +5,8 @@
 
 ## I'm a Student !
 
-- 🔭 I’m currently working on Developing my Skills!
-- 🌱 I’m currently learning React, Node .
+- 🔭 I’m currently pursuing Masters in Computer Science and Engineering!
+- 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate with other Full-Stack Devlopers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
